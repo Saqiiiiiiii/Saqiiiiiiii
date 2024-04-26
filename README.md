@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Saqiiiiiiii
 - 🌱 I’m currently learning Tableau, Powerbi and SQL
 - 💞️ I’m looking to collaborate on junior level roles as Data Analysis 
-- 😄 Pronouns: ... SHE/HER
-- ⚡ Fun fact: I am a life coach
+  
+- ⚡ Fun fact: I can't stand coofee smell 
 - 
 
 
