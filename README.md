@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Saqiiiiiiii
-- 🌱 I’m currently learning Tableau, Powerbi and SQL
-- 💞️ I’m looking to collaborate on junior level roles as Data Analysis 
-  
-- ⚡ Fun fact: I can't stand coofee smell 
+ 👋 Hello there! I'm Sajida, an aspiring junior data analyst venturing into the fascinating world of data just a few months ago. 📊 I find joy in transforming raw data into meaningful insights and compelling visuals using tools like Tableau, PowerBI, and the latest features in Excel. 💻
+
+When I'm not diving into datasets, you can find me climbing mountains 🏔️ or embarking on long drives, soaking in the beauty of nature. 🚗 As a passionate photographer 📷, I love capturing moments and expressing stories through my lens.
+
+I'm excited to learn, grow, and collaborate with like-minded individuals in the data community. Let's connect and explore the endless possibilities of data together! 🌟
+
+
 - 
 
 ## Skills 🛠️
