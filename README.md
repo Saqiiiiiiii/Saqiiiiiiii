@@ -13,6 +13,14 @@
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
 </p>
 
+## Let's Connect! 🌐
+
+Feel free to reach out to me! Let's connect and collaborate on exciting projects! 🤝
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sajida-karim-126968aa/)
+
+
+
 Saqiiiiiiii/Saqiiiiiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
