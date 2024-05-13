@@ -5,8 +5,6 @@ When I'm not diving into datasets, you can find me climbing mountains 🏔️ or
 I'm excited to learn, grow, and collaborate with like-minded individuals in the data community. Let's connect and explore the endless possibilities of data together! 🌟
 
 
-- 
-
 ## Skills 🛠️
 
 <p align="center">
